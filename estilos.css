@@ -1,0 +1,77 @@
+div {
+  color: black;
+}
+body {
+  background-image: url("https://www.todofondos.net/wp-content/uploads/31-fondo-de-pantalla-de-fondo-blanco-fondos-blancos-de-calidad-100-hd.-fondo-de-pantalla-blancos-1024x576.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Color_negro.jpg/1200px-Color_negro.jpg");
+  background-size: 100%;
+  font-family: "Helvetica Bold", Arial, sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 72px; /* Tamaño de fuente deseado */
+}
+h2 {
+  font-family: "Helvetica Bold", Arial, sans-serif;
+  text-align: center;
+  color: black;
+  font-size: 18px; /* Tamaño de fuente deseado */
+}
+h3 {
+  font-family: "Helvetica", Arial, sans-serif;
+  text-align: center;
+  color: black;
+  font-size: 40px;
+}
+h4 {
+  color: white;
+  text-align: center;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+.franja {
+  background-image: url("https://blog.colectivo23.com/hubfs/shutterstock_1047942202%20%281%29.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px; /* Ajusta la altura deseada para la imagen */
+}
+
+.franja2 {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Color_negro.jpg/1200px-Color_negro.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100px;
+}
+li {
+  font-family: "Helvetica", Arial, sans-serif;
+  text-align: center;
+  color: black;
+  display: inline;
+  margin-right: 10px;
+}
+ul {
+  text-align: center;
+  list-style-type: none;
+  padding: 0;
+}
+
+#mi-parrafo {
+  text-align: center;
+  font-family: "Helvetica Light", Arial, sans-serif;
+  font-size: 22px;
+}
+
+.contenedor {
+  background-color: lightgrey;
+  padding: 60px;
+}
+img {
+  float: right;
+  height: 400px;
+  width: 600px;
+}
+a {
+  color: black;
+}
